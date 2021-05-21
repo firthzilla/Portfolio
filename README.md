@@ -1,3 +1,3 @@
 # Portfolio
 
-Here is my portfolio website built with django in pycharm.
+Here is my portfolio website built with django.
