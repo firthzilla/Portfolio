@@ -1,0 +1,26 @@
+{% extends 'home.html' %}
+{% block content %}
+  <h1 class="Title">The Blogs</h1>
+{% endblock %}
+
+{% block content1%}
+       <div class="row">
+          {% for item in blogPost_list %}
+             <div class="col-md-3" onclick="location.href='/post-detail/{{ item.blog.id }}'">
+               <span class="ask">Title: </span>
+               <span class="span-item">{{ item.title }}</span>
+               <br>
+               <span class="ask">Description: </span>
+               <span class="span-item">{{ item.description }}</span>
+               <br>
+               <span class="ask">Date Published: </span>
+               <span class="span-item">{{ item.pub_date }}</span>
+             </div>
+
+         {% endfor %}
+       </div>
+{% endblock %}
+
+{% block content2%}
+
+{% endblock %}

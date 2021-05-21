@@ -1,0 +1,56 @@
+{% extends 'home.html' %}
+
+{% block content %}
+<div class="post-title">
+  <h1 class="Title">{% if blog %}{{ blog.title }}{% endif %}</h1>
+</div>
+{% endblock %}
+
+  {% block content1%}
+    <div class="wrapper1">
+  {% if blog.coverImage %}
+    <div class="post-cover">
+      <img src="{{ blog.coverImage.url }}" alt="content">
+    </div>
+    <br>
+  {% endif %}
+  <div class="post-body">
+    <p>{{ blog.body0 }}</p>
+  </div>
+    <br>
+  {% if blog.image0 %}
+    <div class="post-image">
+      <img src="{{ blog.image0.url }}" alt="content">
+    </div>
+    <br>
+  {% endif %}
+   {% if blog.body1 %}
+     <div class="post-body">
+       <p>{{ blog.body1 }}</p>
+     </div>
+     <br>
+   {% endif %}
+  {% if blog.body2 %}
+    <div class="post-body">
+      <p>{{ blog.body2 }}</p>
+    </div>
+    <br>
+  {% endif %}
+  {% if blog.image1 %}
+    <div class="post-image">
+      <img src="{{ blog.image1.url }}" alt="connect">
+    </div>
+    <br>
+  {% endif %}
+  {% if blog.body3 %}
+    <div class="post-body">
+      <p>{{ blog.body3 }}</p>
+    </div>
+    <br>
+  {% endif %}
+    </div>
+{% endblock %}
+
+{% block content2%}
+
+{% endblock %}

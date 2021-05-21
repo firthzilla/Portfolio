@@ -1,0 +1,159 @@
+video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+html, body {
+  height: 100%;
+}
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 150%;
+  line-height: 2  ;
+}
+body {
+  margin: 0;
+}
+
+.viewport-header {
+  position: relative;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-family: 'Syncopate', sans-serif;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 3vw;
+  line-height: 1.2;
+  font-size: 3vw;
+  text-align: center
+}
+
+main {
+  text-indent: 30px;
+  width: 80vw;
+  left: 10%;
+  overflow: auto;
+  background: black;
+  opacity:0.66;
+  color: white;
+  position: relative;
+  padding: 1rem;
+}
+.navbar {
+  min-height: 100px;
+  font-size: 20px;
+  position: relative;
+  display: flex;
+}
+
+nav img {
+  width: 120px;
+  padding: 5px;
+}
+
+a.nav-link {
+  color: lightsteelblue;
+}
+
+span.ask {
+  font-size: 20px;
+
+}
+span.span-item {
+  font-size: 20px;
+}
+div.row {
+  display: flex;
+  grid-gap: 50px;
+  padding: 50px;
+}
+
+div.col-md-3 {
+  cursor: pointer;
+
+  background: black;
+  opacity:0.66;
+  color: white;
+  padding: 15px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+.fa-github {
+  background: black;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #55ACEE;
+  color: white;
+}
+
+div.post-body {
+
+  background: black;
+  opacity:0.66;
+  color: white;
+  padding: 50px;
+  text-align: justify;
+  text-indent: 30px;
+
+}
+div.post-title {
+  background: black;
+  opacity:0.66;
+  color: white;
+  padding: 15px;
+}
+
+div.post-cover {
+  background: black;
+  position: relative;
+  opacity:0.8;
+  padding: 15px;
+  text-align: center;
+}
+  img {
+    max-height: 500px;
+  }
+div.post-image {
+  text-align: center;
+  background: black;
+  opacity:0.8;
+  padding: 15px;
+
+}
+  img {
+    max-height: 400px;
+  }
+
+.wrapper1 {
+  display: flex;
+  grid-gap: 30px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  padding: 20px;
+}

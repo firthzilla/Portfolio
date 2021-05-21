@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b1dc465-642a-4cb0-9dd8-c5cb3d35303e" name="Default Changelist" comment="First" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rwQE27T791EOYTRR85zoA5rNzI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexf\PycharmProjects\Portfolio\portfolioApp\static" />
+      <recent name="C:\Users\alexf\PycharmProjects\Portfolio\portfolioApp\templates" />
+      <recent name="C:\Users\alexf\PycharmProjects\Portfolio\portfolioApp\templates\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Portfolio" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Portfolio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b1dc465-642a-4cb0-9dd8-c5cb3d35303e" name="Default Changelist" comment="" />
+      <created>1619884556899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619884556899</updated>
+      <workItem from="1619884653953" duration="139000" />
+      <workItem from="1620829524878" duration="1992000" />
+      <workItem from="1620837673537" duration="12000" />
+      <workItem from="1620919603274" duration="1931000" />
+      <workItem from="1620921996936" duration="1899000" />
+      <workItem from="1620943762073" duration="4908000" />
+      <workItem from="1620949979662" duration="10154000" />
+      <workItem from="1620997558613" duration="1196000" />
+      <workItem from="1621004154150" duration="7331000" />
+      <workItem from="1621020861315" duration="1476000" />
+      <workItem from="1621086440885" duration="1335000" />
+      <workItem from="1621089200204" duration="2181000" />
+      <workItem from="1621108076076" duration="58000" />
+      <workItem from="1621229507350" duration="229000" />
+      <workItem from="1621361354285" duration="2511000" />
+      <workItem from="1621371039309" duration="951000" />
+      <workItem from="1621372013883" duration="800000" />
+      <workItem from="1621387376675" duration="804000" />
+      <workItem from="1621388265927" duration="2321000" />
+      <workItem from="1621391612056" duration="2258000" />
+      <workItem from="1621436035861" duration="1720000" />
+      <workItem from="1621439888455" duration="4615000" />
+      <workItem from="1621445467870" duration="4631000" />
+      <workItem from="1621561300359" duration="1378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
+  </component>
+</project>
